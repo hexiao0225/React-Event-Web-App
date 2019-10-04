@@ -1,8 +1,8 @@
 # React-Event-Web-App
 
-This is the frontend part of a CMU Course project.
+This is the frontend part of a CMU course project.
 
-I developed the website using ReactJS.
+I worked on the frontend using ReactJS.
 
 ## Cover Page:
 ![Cover Page](https://github.com/hexiao0225/React-Event-Web-App/blob/master/preview/cover_image.png)
